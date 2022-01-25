@@ -319,7 +319,4 @@
                         $main._show(location.hash.substr(1), true);
                     });
 
-    $('#back').click(function() {
-        alert("Форма отправлена")});
-
 })(jQuery);
