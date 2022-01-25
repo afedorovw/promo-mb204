@@ -4,7 +4,6 @@
 
 <img src="https://github.com/afedorovw/afedorovw.github.io/blob/new/images/prommb.jpg">
 
-[Перейти на сайт](https://promomb204.z6.web.core.windows.net/)
 
 Небольшой промо-сайт по моей любимой модели данной марки. :hugs:
 
